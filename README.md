@@ -1,2 +1,2 @@
 # front-end
-Front end repo for Easy Trucking web app
+Front end repo for Easy Trucking web React app.
