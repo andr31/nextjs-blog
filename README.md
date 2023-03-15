@@ -1,2 +1,1 @@
-# front-end
-Front end repo for Easy Trucking web React app.
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
